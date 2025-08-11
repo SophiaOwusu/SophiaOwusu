@@ -39,7 +39,7 @@ Canva • Figma • Adobe Illustrator
 <td style="vertical-align: top;">
 
 <span style="color:#9C27B0; font-weight:bold;">💻 Programming Languages</span>  
-Python • SQL • R • JavaScript  
+Python • SQL 
 <hr style="border: 0; border-top: 1px solid #ddd; margin: 6px 0;">
 
 <span style="color:#E91E63; font-weight:bold;">📅 Project Management</span>  
