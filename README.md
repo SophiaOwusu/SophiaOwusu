@@ -1,5 +1,5 @@
 # SophiaOwusu<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Sophia Owusu</h1>
+<h1 align="center">Hi there, I'm Sophia</h1>
 <h3 align="center">Passionate about leveraging on data analysis tool like SQL, Power Bi, Excel and Python to explore shortfalls and accurately predict health outcomes, improving on the overall quality of life.</h3>
 
 <!-- Banner Image -->
